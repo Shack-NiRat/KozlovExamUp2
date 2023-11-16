@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iL8O+ToTjub/457GS/b2GxwIQybdQjZcq356Zg74unJzgx0+Ws+tSxWX+RSR79lwHi08bhfvc4gdtteSQM+IfQ==",
+  "dgSpecHash": "IgDQV6oHffbvXEXUPOmSIdbr4C0pQtg6gmNVI1NSM3NCeGIsOfLPjHox85DZ0tWJXa7lnbkQEyRtT9cqi1vtcQ==",
   "success": true,
-  "projectFilePath": "B:\\ИСПО\\4 КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\ОООСпорт.csproj",
+  "projectFilePath": "B:\\ИСПО\\4КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\ОООСпорт.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrey\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Andrey\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

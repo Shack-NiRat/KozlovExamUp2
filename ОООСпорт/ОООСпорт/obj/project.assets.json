@@ -3306,11 +3306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\ИСПО\\4 КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\ОООСпорт.csproj",
+      "projectUniqueName": "B:\\ИСПО\\4КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\ОООСпорт.csproj",
       "projectName": "ОООСпорт",
-      "projectPath": "B:\\ИСПО\\4 КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\ОООСпорт.csproj",
+      "projectPath": "B:\\ИСПО\\4КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\ОООСпорт.csproj",
       "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-      "outputPath": "B:\\ИСПО\\4 КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\obj\\",
+      "outputPath": "B:\\ИСПО\\4КУРС\\УпНоябрь\\МояРаботаЭкзамен\\ОООСпорт\\ОООСпорт\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
